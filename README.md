@@ -1,10 +1,10 @@
-# 📊 Material de Analítica de Negocios — UdeA
+# Material de Analítica de Negocios — UdeA
 
 > Repositorio académico con material, notebooks y recursos utilizados durante el curso de **Analítica de Negocios** de la **Universidad de Antioquia**.
 
 ---
 
-## 📚 Sobre este repositorio
+## Sobre este repositorio
 
 Este repositorio tiene como propósito **organizar y conservar el material de estudio** correspondiente al curso de **Analítica de Negocios**.
 
@@ -14,28 +14,28 @@ Aquí se recopilan los diferentes **notebooks, ejercicios, conceptos y recursos*
 
 ---
 
-## 🧠 ¿Qué encontrarás aquí?
+## ¿Qué encontrarás aquí?
 
 El repositorio estará organizado alrededor de los principales temas abordados en el curso:
 
-- 📖 Conceptos fundamentales de Analítica de Negocios
-- 📊 Análisis y exploración de datos
-- 🐍 Python para analítica
-- 🧹 Preparación y limpieza de datos
-- 📈 Visualización de datos
-- 🔎 Análisis descriptivo
-- 🤖 Modelos y técnicas de analítica
-- 💼 Aplicaciones de la analítica en los negocios
-- 📝 Ejercicios y actividades de clase
+- Conceptos fundamentales de Analítica de Negocios
+- Análisis y exploración de datos
+- Python para analítica
+- Preparación y limpieza de datos
+- Visualización de datos
+- Análisis descriptivo
+- Modelos y técnicas de analítica
+- Aplicaciones de la analítica en los negocios
+- Ejercicios y actividades de clase
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 
 La estructura se irá actualizando a medida que avance el curso.
 
 ```text
-📦 Material-de-Analitica-de-Negocios-UDEA
+  Material-de-Analitica-de-Negocios-UDEA
 │
 ├── 📁 01_Conceptos_Fundamentales
 │   └── 📓 notebooks
