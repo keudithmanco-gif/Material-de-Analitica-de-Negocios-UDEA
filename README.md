@@ -8,9 +8,9 @@
 
 Este repositorio tiene como propósito **organizar y conservar el material de estudio** correspondiente al curso de **Analítica de Negocios**.
 
-Aquí se recopilan los diferentes **notebooks, ejercicios, conceptos y recursos** trabajados durante el desarrollo de la asignatura, con el fin de facilitar su consulta y servir como apoyo para el aprendizaje.
+Aquí se recopilan diferentes **notebooks, ejercicios, conceptos y recursos** trabajados durante el desarrollo de la asignatura, con el fin de facilitar su consulta y servir como apoyo para el aprendizaje.
 
-> ⚠️ **Nota:** Los notebooks correspondientes al material teórico **no fueron elaborados por mí**. Fueron diseñados y proporcionados por los profesores del curso. Este repositorio se utiliza únicamente para organizar y consultar el material académico.
+> ⚠️ **Nota:** Algunos notebooks y materiales teóricos no fueron elaborados por mí. Fueron diseñados y proporcionados por los profesores del curso. Este repositorio se utiliza únicamente con fines académicos y de consulta.
 
 ---
 
@@ -19,8 +19,8 @@ Aquí se recopilan los diferentes **notebooks, ejercicios, conceptos y recursos*
 El repositorio estará organizado alrededor de los principales temas abordados en el curso:
 
 - Conceptos fundamentales de Analítica de Negocios
-- Análisis y exploración de datos
 - Python para analítica
+- Análisis y exploración de datos
 - Preparación y limpieza de datos
 - Visualización de datos
 - Análisis descriptivo
@@ -30,12 +30,33 @@ El repositorio estará organizado alrededor de los principales temas abordados e
 
 ---
 
+## Material complementario de Python
+
+Como apoyo para los contenidos de Python, se dispone de una carpeta con material básico que incluye temas como:
+
+- Introducción a Python
+- Variables y operadores
+- Strings
+- Listas
+- Tuplas
+- Diccionarios
+- Estructuras condicionales
+- Ciclos
+- Funciones
+- Otros conceptos básicos
+
+📚 **[Consultar material de Python básico en Google Drive](https://drive.google.com/drive/folders/1piEzgcVzQUk1SefwxSGuj7Fb2vUhL3rW)**
+
+> Este material se encuentra alojado en Google Drive y se incluye como recurso complementario para reforzar los fundamentos de Python utilizados durante el curso.
+
+---
+
 ## Estructura del repositorio
 
 La estructura se irá actualizando a medida que avance el curso.
 
 ```text
-  Material-de-Analitica-de-Negocios-UDEA
+Material-de-Analitica-de-Negocios-UDEA
 │
 ├── 📁 01_Conceptos_Fundamentales
 │   └── 📓 notebooks
